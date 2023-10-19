@@ -19,7 +19,7 @@ Re the `have funding / inquire for fees` label: admins of the project board have
 
 All are welcome to let us know what you need ([Create issue](https://github.com/quinn-dougherty/epistemics-ux-projects/issues/new)). 
 
-We may put in issue templates by topic area (wikis, prediction markets, estimational programming languages or stacks) later. 
+We may put in issue templates by topic area (wikis, prediction markets, estimational programming languages or stacks, consensus elicitation, etc.) later. 
 
 Please use either the `unpaid` or `have funding / inquire for fees` labels. 
 
