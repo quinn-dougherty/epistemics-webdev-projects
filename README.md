@@ -6,7 +6,7 @@ Believing true things and measuring what we care about is hard. The power of web
 
 # View and execute projects
 
-- [Shovel-ready](https://github.com/quinn-dougherty/epistemics-ux-projects/labels/scoped%2Fconcrete%20score%3A%201%2F3)
+- [Shovel-ready](https://github.com/quinn-dougherty/epistemics-ux-projects/labels/scoped%2Fconcrete%20score%3A%203%2F3)
 - [All](https://github.com/quinn-dougherty/epistemics-ux-projects/issues)
 
 Ask an admin to `assign` you to your github account, which will move the issue in the `In Progress` column on [the board](https://github.com/users/quinn-dougherty/projects/1/). 
