@@ -11,13 +11,15 @@ Believing true things and measuring what we care about is hard. The power of web
 
 Ask an admin to `assign` you to your github account, which will move the issue in the `In Progress` column on [the board](https://github.com/users/quinn-dougherty/projects/1/). 
 
-I may ask Manifold for managram bounties at some point over the next few weeks, we can get a cash bounty system going at some point as well. 
+Re the `unpaid` tag: I may ask Manifold for managram bounties at some point over the next few weeks, we can get a cash bounty system going at some point as well. 
 
 # Pitch projects
 
 All are welcome to let us know what you need ([Create issue](https://github.com/quinn-dougherty/epistemics-ux-projects/issues/new)). 
 
 We may put in issue templates by topic area (wikis, prediction markets, estimational programming languages or stacks) later. 
+
+Please use either the `unpaid` or `have funding, discuss fees` label. 
 
 ## Subjective scoped/concrete scores: 
 
