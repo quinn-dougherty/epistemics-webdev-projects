@@ -11,7 +11,9 @@ Believing true things and measuring what we care about is hard. The power of web
 
 Ask an admin to `assign` you to your github account, which will move the issue in the `In Progress` column on [the board](https://github.com/users/quinn-dougherty/projects/1/). 
 
-Re the `unpaid` tag: I may ask Manifold for managram bounties at some point over the next few weeks, we can get a cash bounty system going at some point as well. 
+Re the `unpaid` label: I may ask Manifold for managram bounties at some point over the next few weeks, we can get a cash bounty system going at some point as well. 
+
+Re the `have funding / inquire for fees` label: admins of the project board have nothing to do with fee discussions, that's between you and whoever posted the issue. 
 
 # Pitch projects
 
@@ -19,7 +21,7 @@ All are welcome to let us know what you need ([Create issue](https://github.com/
 
 We may put in issue templates by topic area (wikis, prediction markets, estimational programming languages or stacks) later. 
 
-Please use either the `unpaid` or `have funding, discuss fees` label. 
+Please use either the `unpaid` or `have funding / inquire for fees` labels. 
 
 ## Subjective scoped/concrete scores: 
 
