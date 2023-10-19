@@ -7,7 +7,7 @@ Believing true things and measuring what we care about is hard. The power of web
 # View and execute projects
 
 - [Shovel-ready](https://github.com/quinn-dougherty/epistemics-ux-projects/labels/scoped%2Fconcrete%20score%3A%202%2F3)
-- [all](https://github.com/quinn-dougherty/epistemics-ux-projects/issues)
+- [All](https://github.com/quinn-dougherty/epistemics-ux-projects/issues)
 
 Ask an admin to `assign` you to your github account, which will move the issue in the `In Progress` column on [the board](https://github.com/users/quinn-dougherty/projects/1/). 
 
@@ -15,7 +15,9 @@ I may ask Manifold for managram bounties at some point over the next few weeks, 
 
 # Pitch projects
 
-All are welcome to let us know what you need. 
+All are welcome to let us know what you need ([Create issue](https://github.com/quinn-dougherty/epistemics-ux-projects/issues/new)). 
+
+We may put in issue templates by topic area (wikis, prediction markets, estimational programming languages or stacks) later. 
 
 ## Subjective scoped/concrete scores: 
 
